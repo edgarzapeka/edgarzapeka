@@ -23,7 +23,7 @@
         }
 
         .text {
-          font-size: 22px;
+          font-size: 36px;
         }
   
         .shine-effect {
