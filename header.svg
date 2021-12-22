@@ -21,10 +21,6 @@
           width: 100%;
           height: 100%;
         }
-
-        .text {
-          font-size: 36px;
-        }
   
         .shine-effect {
           position: absolute;
@@ -41,13 +37,13 @@
           animation-fill-mode: forwards;
           -webkit-text-size-adjust: none;
           font-weight: 600;
-          font-size: 16px;
+          font-size: 36px;
           text-decoration: none;
           white-space: nowrap;
         }
 			</style>
       <div class="container">
-        <span class="text shine-effect">oh hi 👋</span>
+        <span class="shine-effect">oh hi 👋</span>
       </div>
     </div>
 	</foreignObject>
