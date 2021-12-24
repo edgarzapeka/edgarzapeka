@@ -1,3 +1,1 @@
-<div align="center">
-    <img src="./header.svg" width="100%" height="100%" alt="oh hi">
-</div>
+<div align="center"><img src="./header.svg" width="200" height="200" alt="oh hi"></div>
